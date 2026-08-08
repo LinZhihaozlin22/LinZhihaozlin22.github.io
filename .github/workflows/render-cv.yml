@@ -1,14 +1,14 @@
 name: Render a CV
+# Manual-only. This site does not use RenderCV output: the CV page is rendered by
+# the al_folio_cv plugin from `_data/cv.yml`, and `cv_pdf` points at a hand-written
+# PDF rather than a generated one.
+#
+# The automatic push trigger is off because RenderCV's strict schema rejects the
+# `label`, `image`, and `summary` keys that al-folio's own CV page renderer reads
+# from `_data/cv.yml` — so this job failed on the stock template data too (see the
+# "Initial commit" run). Re-enable the push trigger only after reconciling
+# `_data/cv.yml` with the RenderCV schema.
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
   workflow_call:
   workflow_dispatch:
 permissions:
