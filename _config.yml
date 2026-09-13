@@ -28,7 +28,7 @@ author:
   avatar           : 
   name             : "Zhihao Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Independent Researcher · Large Language Models & AI Systems"
+  bio              : "Independent Researcher"
   location         : "Seattle, WA"
   employer         : 
   uri              : # URL
@@ -172,6 +172,7 @@ exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
+  - AGENTS.md
   - .bundle
   - .github
   - .jekyll-assets-cache
@@ -183,6 +184,7 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
