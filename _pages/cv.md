@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+Research Experience
+======
+
+* **Student Researcher, Large Language Models**, Jan 2026 – Present
+  * Conducting independent research on adaptive LLM generation, representation learning, and inference-time methods.
+
+* **Research Assistant, NLP & Sentiment Analysis**, Santa Clara University, Jan 2022 – Apr 2022
+  * Advisor: Prof. Yi Fang
+  * Contributed to an industry-collaborative NLP research project on sentiment analysis.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **M.S. in Computer Science**, Santa Clara University, Sep 2020 – Dec 2022
+  * GPA: 3.77/4.0
+* **B.S. in Computer Science**, University at Buffalo, The State University of New York, Aug 2016 – Jun 2020
+  * *cum laude*
+
+Industry Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Software Development Engineer**, Amazon Web Services, Amazon Connect, Feb 2023 – Apr 2026, Seattle, WA
+  * Built and operated large-scale data and metrics platforms across distributed backend systems, with a focus on production reliability.
+  * Built retrieval-grounded workflows, LLM/tool integration, and AI-assisted workflow automation with structured validation guardrails.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+* **Programming:** Python, Java, TypeScript, Bash
+* **Machine learning:** PyTorch, Hugging Face Transformers, scikit-learn, NumPy, pandas
+* **Systems and cloud:** Linux, Git, Docker, AWS (Lambda, EC2, SageMaker AI, DynamoDB, OpenSearch, S3)
+
+Research Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Large Language Models, AI Systems, AI Agents, Representation Learning, and Multimodal / Embodied AI.
