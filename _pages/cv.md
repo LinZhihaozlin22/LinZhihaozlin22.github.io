@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/zhihao_lin_cv.pdf" class="btn btn--primary">Download CV (PDF)</a>
+
 Research Experience
 ======
 

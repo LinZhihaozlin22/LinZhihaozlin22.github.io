@@ -32,7 +32,8 @@ author:
   location         : "Seattle, WA"
   employer         : 
   uri              : # URL
-  email            : "zhihaolinsde@gmail.com" 
+  email            : "zhihaolinsde@gmail.com"
+  cv               : "/files/zhihao_lin_cv.pdf" # Path under the site root; rendered as a "CV (PDF)" sidebar link
 
   # Academic websites
   academia         : # URL
