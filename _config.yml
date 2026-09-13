@@ -23,7 +23,7 @@ repository               : "LinZhihaozlin22/LinZhihaozlin22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # TODO: add a professional headshot at images/profile.jpg, then set avatar to "profile.jpg".
+  # TODO (profile photo): add a professional headshot at `images/profile.jpg`, then set `avatar: "profile.jpg"`.
   #       Left blank on purpose so no placeholder image is shown.
   avatar           : 
   name             : "Zhihao Lin"

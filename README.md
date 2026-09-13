@@ -19,8 +19,8 @@ Publications, Talks, Teaching, Portfolio, and Blog Posts are intentionally absen
 publications later, create `_publications/`, restore the template's `_pages/publications.html`,
 and add a `Publications` entry to `_data/navigation.yml`.
 
-**TODO — profile photo:** place a headshot at `images/profile.jpg` and set
-`author.avatar: "profile.jpg"` in `_config.yml`.
+**TODO — profile photo:** add a professional headshot at `images/profile.jpg`, then set
+`avatar: "profile.jpg"` under `author:` in `_config.yml`. Until then the sidebar renders without an image.
 
 ## Local development
 
