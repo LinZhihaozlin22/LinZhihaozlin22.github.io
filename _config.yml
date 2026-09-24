@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Zhihao Lin"
 title_separator          : "-"
 name                     : &name "Zhihao Lin"
-description              : &description "Zhihao Lin is an independent researcher working on large language models, adaptive generation, representation learning, and AI systems, following over three years of software engineering experience at Amazon Web Services."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Zhihao Lin is a Research Assistant at the University of Virginia working on large language models, adaptive generation, representation learning, and AI systems, following over three years of software engineering experience at Amazon Web Services."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://linzhihaozlin22.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,9 +28,9 @@ author:
   avatar           : 
   name             : "Zhihao Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Independent Researcher"
+  bio              : "Research Assistant"
   location         : "Seattle, WA"
-  employer         : 
+  employer         : "University of Virginia"
   uri              : # URL
   email            : "zhihaolinsde@gmail.com"
   cv               : "/files/zhihao_lin_cv.pdf" # Path under the site root; rendered as a "CV (PDF)" sidebar link

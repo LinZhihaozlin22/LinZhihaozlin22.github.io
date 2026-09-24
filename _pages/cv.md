@@ -14,6 +14,8 @@ redirect_from:
 Research Experience
 ======
 
+* **Research Assistant**, University of Virginia, Sep 2026 – Present
+
 * **Independent Researcher, Large Language Models**, Jan 2026 – Present
   * Conducting independent research on adaptive LLM generation, representation learning, and inference-time methods.
 

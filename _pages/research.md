@@ -7,7 +7,8 @@ author_profile: true
 Current work
 ------
 
-**Independent research on large language models** (Jan 2026 – present): adaptive LLM generation, representation learning, and inference-time methods.
+* **Research Assistant, University of Virginia** (Sep 2026 – present).
+* **Independent research on large language models** (Jan 2026 – present): adaptive LLM generation, representation learning, and inference-time methods. One paper accepted to the AACL-IJCNLP 2026 Main Conference.
 
 Prior experience
 ------
