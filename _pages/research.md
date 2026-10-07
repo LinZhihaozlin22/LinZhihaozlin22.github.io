@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-**Research interests:** Large Language Models, LLM Inference and Serving, AI Systems, AI Agents, Representation Learning, and Multimodal / Embodied AI.
+**Research interests:** Large Language Models, LLM Inference and Serving, AI Systems, AI Agents, and Representation Learning.
 
 Current work
 ------

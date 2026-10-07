@@ -64,4 +64,4 @@ Skills
 Research Interests
 ======
 
-Large Language Models, LLM Inference and Serving, AI Systems, AI Agents, Representation Learning, and Multimodal / Embodied AI.
+Large Language Models, LLM Inference and Serving, AI Systems, AI Agents, and Representation Learning.

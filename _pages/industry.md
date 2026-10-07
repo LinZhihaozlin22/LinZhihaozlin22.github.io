@@ -1,6 +1,6 @@
 ---
-permalink: /experience/
-title: "Experience"
+permalink: /industry/
+title: "Industry"
 author_profile: true
 ---
 
