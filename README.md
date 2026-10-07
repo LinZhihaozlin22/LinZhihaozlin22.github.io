@@ -9,18 +9,16 @@ Built with the [Academic Pages](https://github.com/academicpages/academicpages.g
 | What                               | File                       |
 | ---------------------------------- | -------------------------- |
 | Site identity, author sidebar      | `_config.yml`              |
-| Navbar (About, Research, CV)       | `_data/navigation.yml`     |
+| Navbar (About, Research, Experience, CV) | `_data/navigation.yml` |
 | Homepage bio and news              | `_pages/about.md`          |
 | Research page                      | `_pages/research.md`       |
+| Experience page (industry)         | `_pages/experience.md`     |
 | Web CV                             | `_pages/cv.md`             |
 | Downloadable CV (PDF)              | `files/zhihao_lin_cv.pdf`  |
 
 Publications, Talks, Teaching, Portfolio, and Blog Posts are intentionally absent. To add
 publications later, create `_publications/`, restore the template's `_pages/publications.html`,
 and add a `Publications` entry to `_data/navigation.yml`.
-
-**TODO — profile photo:** add a professional headshot at `images/profile.jpg`, then set
-`avatar: "profile.jpg"` under `author:` in `_config.yml`. Until then the sidebar renders without an image.
 
 ## Local development
 
