@@ -4,7 +4,7 @@ title: "Industry"
 author_profile: true
 ---
 
-Binhao
+Binhao Technology
 ------
 
 * **Applied AI Engineer** (May 2026 – Sep 2026), Remote

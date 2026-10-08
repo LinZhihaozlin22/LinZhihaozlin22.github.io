@@ -29,7 +29,7 @@ Skills
 Industry Experience
 ======
 
-* **Applied AI Engineer**, Binhao, May 2026 – Sep 2026, Remote
+* **Applied AI Engineer**, Binhao Technology, May 2026 – Sep 2026, Remote
   * Embedded with business and engineering users to map end-to-end OEM/ODM workflows and translate operational requirements across customer intake, quotation, BOM management, tooling, sampling, procurement, and production preparation into scoped AI automation projects.
   * Built Python-based unified project data pipeline to ingest Excel, Word, PDF, PPT, image, and system-export data, normalizing product information while tracking field-level provenance, versions, confidence, and conflicts.
   * Developed LLM-powered document intelligence workflows to extract structured customer requirements, retrieve similar historical products and BOMs, and generate grounded quotation and sample-BOM drafts while identifying missing and conflicting information for review.
