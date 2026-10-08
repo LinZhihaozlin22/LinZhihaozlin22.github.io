@@ -4,10 +4,10 @@ title: "Portfolio"
 author_profile: true
 ---
 
-Public product launches I contributed to as a Software Development Engineer on the Amazon Connect Analytics team at Amazon Web Services.
-
 Amazon Connect launches
 ------
+
+Public product launches I contributed to as a Software Development Engineer on the Amazon Connect Analytics team at Amazon Web Services.
 
 * **Nov 2025** — [Amazon Connect now supports creation of custom metrics for use in dashboards and APIs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-metric-customization/)
 * **Jun 2025** — [Amazon Connect Outbound Campaigns is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-outbound-campaigns-three-regions/)

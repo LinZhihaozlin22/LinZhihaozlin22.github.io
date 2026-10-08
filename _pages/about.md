@@ -21,6 +21,6 @@ News
 * **Sep 2026** — Started as an AI Systems Research Assistant at the University of Virginia, working on efficient inference for agentic LLM workloads.
 * **Sep 2026** — Our paper "Read the Room Before Your Model Generates" was accepted to the AACL-IJCNLP 2026 Main Conference.
 * **May 2026** — Joined GuangDong Binhao Technology Co., Ltd as a Forward Deployed Engineer, building AI-assisted automation for manufacturing workflows.
-* **Feb 2023** — Returned to Amazon Web Services full-time as a Software Development Engineer on the Amazon Connect Analytics team.
+* **Feb 2023** — Returned to Amazon Web Services as a full-time Software Development Engineer on the Amazon Connect Analytics team.
 * **Jun 2022** — Joined Amazon Web Services as a Software Development Engineer Intern on the Amazon Connect Analytics team.
 * **Jan 2022** — Started as a Research Assistant at Santa Clara University, working on NLP research with Prof. Yi Fang.
