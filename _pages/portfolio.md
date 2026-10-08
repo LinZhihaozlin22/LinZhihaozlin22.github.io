@@ -4,6 +4,16 @@ title: "Portfolio"
 author_profile: true
 ---
 
+Amazon Connect products
+------
+
+Products and features I built or contributed to on the Amazon Connect Analytics team. The metrics platform behind them supports Amazon Connect, which reached a [$1B annualized revenue run rate](https://newsletter.connect.aws.dev/newsletters/Amazon_Connect_Newsletter_Issue-42_2026-Jan.html) in 2025.
+
+* **GetMetricDataV2 API** — Public metrics API owned by my team. [API reference](https://docs.aws.amazon.com/connect/latest/APIReference/API_GetMetricDataV2.html)
+* **Outbound campaigns performance dashboard** — Led end-to-end delivery of the outbound-campaign metrics powering this dashboard. [Admin guide](https://docs.aws.amazon.com/connect/latest/adminguide/outbound-campaigns-performance-dashboard.html) · [Outbound Campaigns](https://aws.amazon.com/products/connect/customer/outbound/)
+* **Conversational analytics dashboard** — Added 29 metrics that power this dashboard. [Admin guide](https://docs.aws.amazon.com/connect/latest/adminguide/contact-lens-conversational-analytics-dashboard.html)
+* **Custom metrics** — Contributed to the custom metrics feature. [Admin guide](https://docs.aws.amazon.com/connect/latest/adminguide/custom-metrics-topic.html)
+
 Amazon Connect launches
 ------
 
