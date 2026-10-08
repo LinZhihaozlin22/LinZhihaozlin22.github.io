@@ -4,7 +4,7 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# Publications, Talks, Teaching, Portfolio, and Blog Posts are intentionally
+# Publications, Talks, Teaching, and Blog Posts are intentionally
 # omitted until there is public content for them.
 
 main:
@@ -16,6 +16,9 @@ main:
 
   - title: "Industry"
     url: /industry/
+
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "CV"
     url: /cv/
