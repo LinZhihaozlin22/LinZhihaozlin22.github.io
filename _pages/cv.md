@@ -58,7 +58,7 @@ AI Systems & Research Experience
 * **Independent LLM Researcher**, Independent Research, Jan 2026 – Sep 2026, Seattle, WA
   * Co-developed Scenario-Actor for adaptive decoding on Llama-3.1-8B-Instruct; led all experiments in Python and PyTorch, including hidden-state extraction, decoder-component training, inference, and evaluation.
   * Built an experimental pipeline for training and validation on 37K+ prompts, decoding benchmarks, and ablations; paper accepted at AACL-IJCNLP 2026 Main Conference.
-  * Paper: *Read the Room Before Your Model Generates.* Muyao Kong\*, Zhihao Lin\* (\*equal contribution). Accepted to the AACL-IJCNLP 2026 Main Conference.
+  * Paper: *Read the Room Before Your Model Generates.* Muyao Kong\*, Zhihao Lin\* (\*equal contribution). Accepted to the AACL-IJCNLP 2026 Main Conference. [[arXiv]](https://arxiv.org/abs/2610.18820)
 
 * **Research Assistant**, Santa Clara University, Jan 2022 – Apr 2022
   * Advisor: Prof. Yi Fang

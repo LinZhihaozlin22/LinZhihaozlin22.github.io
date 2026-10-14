@@ -15,7 +15,7 @@ Current work
   * Co-developed **Scenario-Actor**, a scenario-adaptive decoding framework built on Llama-3.1-8B-Instruct that learns scenario representations from hidden states and selects a sampling temperature for each prompt.
   * Led all experiments in PyTorch, implementing hidden-state extraction, scenario-representation training, and prompt-level temperature selection.
   * Built a Python LLM pipeline using OpenAI APIs for GPT-4o annotation of 37K+ prompts and GPT-4-turbo evaluation, with confidence-based filtering and validation against human-labeled gold sets.
-  * Paper: *Read the Room Before Your Model Generates.* Muyao Kong\*, Zhihao Lin\* (\*equal contribution). Accepted to the AACL-IJCNLP 2026 Main Conference.
+  * Paper: *Read the Room Before Your Model Generates.* Muyao Kong\*, Zhihao Lin\* (\*equal contribution). Accepted to the AACL-IJCNLP 2026 Main Conference. [[arXiv]](https://arxiv.org/abs/2610.18820)
 
 Prior experience
 ------

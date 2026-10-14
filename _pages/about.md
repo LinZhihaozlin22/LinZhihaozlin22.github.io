@@ -9,7 +9,7 @@ redirect_from:
 
 I am a software engineer and AI systems researcher currently working as a Research Assistant at the University of Virginia. My work focuses on large language models, adaptive generation, representation learning, and AI systems. I am currently profiling vLLM-based agentic workloads to study concurrency, KV-cache management, and serving efficiency. More broadly, I am interested in how language models can adapt their behavior at inference time and how internal representations can support that adaptation.
 
-Before joining UVA, I conducted independent LLM research. Together with Muyao Kong, I co-developed Scenario-Actor, a scenario-adaptive decoding framework that learns representations from Llama-3.1-8B-Instruct hidden states and uses them to select prompt-level sampling temperatures. Our paper, *Read the Room Before Your Model Generates*, was accepted to the AACL-IJCNLP 2026 Main Conference.
+Before joining UVA, I conducted independent LLM research. Together with Muyao Kong, I co-developed Scenario-Actor, a scenario-adaptive decoding framework that learns representations from Llama-3.1-8B-Instruct hidden states and uses them to select prompt-level sampling temperatures. Our paper, [*Read the Room Before Your Model Generates*](https://arxiv.org/abs/2610.18820), was accepted to the AACL-IJCNLP 2026 Main Conference.
 
 Previously, I spent over three years as a Software Development Engineer at Amazon Web Services, working on Amazon Connect. I built and operated large-scale distributed systems supporting more than 20 million daily customer interactions, and worked on retrieval-grounded, tool-integrated LLM workflows for production backend systems. That experience strongly influences how I approach research: I care about methods that remain practical at scale and evaluations that clearly establish what a system can and cannot do.
 
@@ -18,6 +18,7 @@ I received an M.S. in Computer Science from Santa Clara University and a B.S. in
 News
 ------
 
+* **Oct 2026** — Our AACL-IJCNLP 2026 paper is now on arXiv: [Read the Room Before Your Model Generates](https://arxiv.org/abs/2610.18820).
 * **Sep 2026** — Started as an AI Systems Research Assistant at the University of Virginia, working on efficient inference for agentic LLM workloads.
 * **Sep 2026** — Our paper "Read the Room Before Your Model Generates" was accepted to the AACL-IJCNLP 2026 Main Conference.
 * **May 2026** — Joined Binhao Technology as an Applied AI Engineer, building AI-assisted automation for manufacturing workflows.
