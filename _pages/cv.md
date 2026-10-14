@@ -58,7 +58,6 @@ AI Systems & Research Experience
 * **Independent LLM Researcher**, Independent Research, Jan 2026 – Sep 2026, Seattle, WA
   * Co-developed Scenario-Actor for adaptive decoding on Llama-3.1-8B-Instruct; led all experiments in Python and PyTorch, including hidden-state extraction, decoder-component training, inference, and evaluation.
   * Built an experimental pipeline for training and validation on 37K+ prompts, decoding benchmarks, and ablations; paper accepted at AACL-IJCNLP 2026 Main Conference.
-  * Paper: *Read the Room Before Your Model Generates.* Muyao Kong\*, Zhihao Lin\* (\*equal contribution). Accepted to the AACL-IJCNLP 2026 Main Conference. [[arXiv]](https://arxiv.org/abs/2610.18820)
 
 * **Research Assistant**, Santa Clara University, Jan 2022 – Apr 2022
   * Advisor: Prof. Yi Fang
@@ -67,6 +66,14 @@ AI Systems & Research Experience
     * Built a Chrome/Gmail sentiment-analysis plugin prototype that integrated NLP inference into email workflows for lightweight sentiment interpretation.
   * **Reporter Image Analysis for Fake-News Research**
     * Developed reusable research software that crawled web images associated with news reporters and combined Amazon Rekognition with DeepFace for face attribute analysis, producing structured reporter data for downstream fake-news detection research; packaged the software for use by a PhD researcher.
+
+
+Publications
+======
+
+* **Read the Room Before Your Model Generates**, 2026 [[arXiv]](https://arxiv.org/abs/2610.18820)
+  * Muyao Kong\*, **Zhihao Lin**\* — AACL-IJCNLP 2026 Main Conference (Accepted)
+  * A scenario-adaptive decoding framework that derives prompt-level sampling temperatures from interpretable scenario representations learned from Transformer hidden states. \*Equal contribution.
 
 
 Education
